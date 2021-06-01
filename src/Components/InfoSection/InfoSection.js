@@ -32,7 +32,7 @@ const InfoSection = ({lightBg, imgStart,lightTopLine,lightTextDesc
                             </TextWrapper>
                         </InfoColumn>
                         <InfoColumn>
-                           
+
                             <ImgWrapper start = {start}>
                                 <Img src ={img} alt = {alt}/>
                             </ImgWrapper>
