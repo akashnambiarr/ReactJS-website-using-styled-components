@@ -65,6 +65,17 @@ const Footer = () => {
                         </FooterLinksItems>
                     </FooterLinksWrapper>
                 </FooterLinkContainer>
+                {/* <SocialMedia>
+                    <SocialMediaWrap>
+                        <SocialLogo to ='/'>
+                            <SocialIcon/>
+                            ULTRA
+                        </SocialLogo>
+                        <WebsiteRights>
+                            ULTRA 2020
+                        </WebsiteRights>
+                    </SocialMediaWrap>
+                </SocialMedia> */}
             </FooterContainer>
         </>
     );
